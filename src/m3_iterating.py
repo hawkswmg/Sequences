@@ -5,7 +5,7 @@ in its most classic form:
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
          their colleagues and Megan Hawksworth.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import rosegraphics as rg
 
